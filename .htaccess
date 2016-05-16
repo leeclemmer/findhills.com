@@ -1,0 +1,3 @@
+Options +SymLinksIfOwnerMatch 
+RewriteEngine On
+RewriteRule ^hill /index.php [QSA,L]
